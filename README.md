@@ -6,7 +6,7 @@ Trabajo con Python (Django REST) y JavaScript (NestJS) desarrollando soluciones 
 
 ### 💻 Tecnologías y Habilidades
 
-- **Backend**: Python, JavaScript, Java, C++
+- **Backend**: Python, JavaScript, Java, C++, APIRest
 - **Frameworks**: Django REST, NestJS, Astro, React
 - **Frontend**: HTML, CSS, JavaScript 
 - **CMS**: WordPress, WooCommerce
